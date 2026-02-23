@@ -536,7 +536,7 @@ $RECYCLE.BIN/
 /Temp/
 /UserSettings/
 *.csproj
-.idea
+.idea/
 .git
 /ProjectSettings/
 /Logs/
