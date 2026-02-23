@@ -12621,7 +12621,7 @@ BoxCollider2D:
   m_UsedByEffector: 0
   m_CompositeOperation: 0
   m_CompositeOrder: 0
-  m_Offset: {x: 0.004341364, y: 0.5999999}
+  m_Offset: {x: 0.004341364, y: 0.65455997}
   m_SpriteTilingProperty:
     border: {x: 0, y: 0, z: 0, w: 0}
     pivot: {x: 0, y: 0}
@@ -12631,7 +12631,7 @@ BoxCollider2D:
     drawMode: 0
     adaptiveTiling: 0
   m_AutoTiling: 0
-  m_Size: {x: 0.5747943, y: 5.5}
+  m_Size: {x: 0.5747943, y: 5.3908796}
   m_EdgeRadius: 0
 --- !u!4 &952572953
 Transform:
@@ -14087,7 +14087,7 @@ BoxCollider2D:
   m_UsedByEffector: 0
   m_CompositeOperation: 0
   m_CompositeOrder: 0
-  m_Offset: {x: -0.0055544376, y: -0.9241837}
+  m_Offset: {x: -0.0055544376, y: -0.9310879}
   m_SpriteTilingProperty:
     border: {x: 0, y: 0, z: 0, w: 0}
     pivot: {x: 0, y: 0}
@@ -14097,7 +14097,7 @@ BoxCollider2D:
     drawMode: 0
     adaptiveTiling: 0
   m_AutoTiling: 0
-  m_Size: {x: 0.54107904, y: 2.348108}
+  m_Size: {x: 0.54107904, y: 2.3342996}
   m_EdgeRadius: 0
 --- !u!4 &1065920107
 Transform:
@@ -24359,7 +24359,7 @@ Rigidbody2D:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 2113471696}
-  m_BodyType: 1
+  m_BodyType: 0
   m_Simulated: 1
   m_UseFullKinematicContacts: 0
   m_UseAutoMass: 0
@@ -24392,7 +24392,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::AIEnemy
   _moveSpeed: 1
   _character: {fileID: 15475508}
-  _speedEnimyOnLadder: 5
+  _speedEnimyOnLadder: 10
 --- !u!70 &2113471703
 CapsuleCollider2D:
   m_ObjectHideFlags: 0
@@ -24427,8 +24427,8 @@ CapsuleCollider2D:
   m_UsedByEffector: 0
   m_CompositeOperation: 0
   m_CompositeOrder: 0
-  m_Offset: {x: -0.19183792, y: -0.20049965}
-  m_Size: {x: 0.41544145, y: 0.37219766}
+  m_Offset: {x: -0.14073001, y: -0.2859035}
+  m_Size: {x: 0.25020608, y: 0.20140383}
   m_Direction: 1
 --- !u!1 &2141184103
 GameObject:
